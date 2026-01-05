@@ -27,7 +27,7 @@ echo
 echo "Next: seed/fund this address on testnet-12."
 echo
 echo "Optional miner integration:"
-echo "  export KASPA_MINER_CMD='kaspa-miner -s 127.0.0.1:16110 -a {ADDRESS}'"
+echo "  export KASPA_MINER_CMD='kaspa-miner -s 127.0.0.1:16210 -a {ADDRESS}'"
 echo
 
 if [ -n "${KASPA_MINER_CMD:-}" ]; then

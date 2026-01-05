@@ -29,7 +29,7 @@ echo.
 echo Optional miner integration:
 echo   Set KASPA_MINER_CMD to a command template containing {ADDRESS}
 echo   Example:
-echo     set KASPA_MINER_CMD=kaspa-miner.exe -s 127.0.0.1:16110 -a {ADDRESS}
+echo     set KASPA_MINER_CMD=kaspa-miner.exe -s 127.0.0.1:16210 -a {ADDRESS}
 echo.
 
 if not "%KASPA_MINER_CMD%"=="" (
