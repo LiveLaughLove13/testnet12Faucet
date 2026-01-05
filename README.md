@@ -19,7 +19,7 @@ A simple, lightweight faucet for Kaspa testnet-12 written in Rust. It provides a
 
 2. **Clone and build**
    ```sh
-   cd faucet
+   cd testnet12Faucet
    cargo build --release
    ```
 

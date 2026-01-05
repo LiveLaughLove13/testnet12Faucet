@@ -20,6 +20,5 @@ kaspa-rpc-core = { git = "https://github.com/kaspanet/rusty-kaspa", branch = "co
 kaspa-addresses = { git = "https://github.com/kaspanet/rusty-kaspa", branch = "covpp" }
 kaspa-hashes = { git = "https://github.com/kaspanet/rusty-kaspa", branch = "covpp" }
 kaspa-consensus-core = { git = "https://github.com/kaspanet/rusty-kaspa", branch = "covpp" }
-kaspa-wallet-core = { git = "https://github.com/kaspanet/rusty-kaspa", branch = "covpp", default-features = false }
 kaspa-txscript = { git = "https://github.com/kaspanet/rusty-kaspa", branch = "covpp" }
 secp256k1 = { version = "0.29.0", features = ["global-context"] }
