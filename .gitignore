@@ -1,0 +1,8 @@
+target/
+.fleet/
+.idea/
+.vscode/
+*.log
+faucet-config.toml
+.DS_Store
+Thumbs.db
